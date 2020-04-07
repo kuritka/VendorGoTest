@@ -13,6 +13,7 @@ var Log *zerolog.Logger
 
 //Logger returns the global logger.
 func Logger() *zerolog.Logger {
+	fmt.Printf("aaa")
 	return Log
 }
 
