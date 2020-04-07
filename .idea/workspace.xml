@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d217344-787f-4b89-8af9-2bb4a0664fdc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.13.Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/1.13.Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.1/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1aDJPnqvddNSnPLBTDtPfgjRWtu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="VENDOR TEST" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <output_directory value="$PROJECT_DIR$/../../../bin" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2677" y="375" key="#VENDOR_TEST" timestamp="1586264325461">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="2677" y="375" key="#VENDOR_TEST/1680.23.2560.1417/0.23.1680.946@1680.23.2560.1417" timestamp="1586264325461" />
+    <state x="2424" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586264295391">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="2424" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.2560.1417/0.23.1680.946@1680.23.2560.1417" timestamp="1586264295391" />
+    <state x="2694" y="541" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586272072120">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="2694" y="541" key="#com.intellij.fileTypes.FileTypeChooser/1680.23.2560.1417/0.23.1680.946@1680.23.2560.1417" timestamp="1586272072120" />
+    <state width="2518" height="408" key="GridCell.Tab.0.bottom" timestamp="1586264419331">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.bottom/1680.23.2560.1417/0.23.1680.946@1680.23.2560.1417" timestamp="1586264419331" />
+    <state width="2518" height="408" key="GridCell.Tab.0.center" timestamp="1586264419330">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.center/1680.23.2560.1417/0.23.1680.946@1680.23.2560.1417" timestamp="1586264419330" />
+    <state width="2518" height="408" key="GridCell.Tab.0.left" timestamp="1586264419329">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.left/1680.23.2560.1417/0.23.1680.946@1680.23.2560.1417" timestamp="1586264419329" />
+    <state width="2518" height="408" key="GridCell.Tab.0.right" timestamp="1586264419330">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.right/1680.23.2560.1417/0.23.1680.946@1680.23.2560.1417" timestamp="1586264419330" />
+  </component>
+</project>

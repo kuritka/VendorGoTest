@@ -1,0 +1,7 @@
+# github.com/kuritka/gext v0.0.2
+## explicit
+github.com/kuritka/gext/log
+# github.com/rs/zerolog v1.18.0
+github.com/rs/zerolog
+github.com/rs/zerolog/internal/cbor
+github.com/rs/zerolog/internal/json
