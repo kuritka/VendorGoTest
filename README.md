@@ -8,7 +8,7 @@ https://github.com/golang/go/wiki/Modules
 
 ## <= go 1.13
 ```bash
-go edit -go 1.13
+go mod edit -go 1.13
 
 go run -mod=vendor ./main.go
 # HELLO FROM VENDOR
@@ -20,7 +20,7 @@ go run ./main.go
 ## >= go 1.14
 
 ```bash
-go edit -go 1.14
+go mod edit -go 1.14
 
 go run ./main.go
 # HELLO FROM VENDOR
