@@ -16,6 +16,7 @@ RUN go get -d -v ./...
 # so either way you're going to have to download the full module into the local module cache.
 #in GO 1.13 and lover you must explicitly put mod=vendor to build vendor folder. in GO 1.14 you ignore that because mod=vendor is added automatically
 RUN go build -mod=vendor
+RUN go lint -mod=vendor
 
 
 ENTRYPOINT ["./awesomeProject1"]

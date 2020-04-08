@@ -14,6 +14,7 @@ RUN go get -d -v ./...
 # verification of vendored folder is useless because verifying the checksums of the vendored modules
 # requires the full module content (because that is what is checksummed),
 # so either way you're going to have to download the full module into the local module cache.
+# solving this maight be at go 1.15
 #in GO 1.13 and lover you must explicitly put mod=vendor to build vendor folder. in GO 1.14 you ignore that because mod=vendor is added automatically
 RUN go build -mod=vendor
 

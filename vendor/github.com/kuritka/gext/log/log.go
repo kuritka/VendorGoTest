@@ -13,7 +13,6 @@ var Log *zerolog.Logger
 
 //Logger returns the global logger.
 func Logger() *zerolog.Logger {
-	fmt.Printf("aaa")
 	return Log
 }
 
@@ -27,5 +26,5 @@ func init() {
 		Logger()
 
 	Log = &l
-	fmt.Println("Logger configured HELLO FROM VENDOR FOLDER")
+	fmt.Println("HELLO FROM VENDOR")
 }
